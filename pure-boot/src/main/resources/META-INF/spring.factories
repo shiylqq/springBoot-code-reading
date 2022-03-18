@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationListener=org.shi.code.reading.springboot.listeners.MySpringApplicationListener,\
+  org.shi.code.reading.springboot.listeners.MyAllApplicationListener
