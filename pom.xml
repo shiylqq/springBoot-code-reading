@@ -6,6 +6,7 @@
     <modules>
         <module>pure-boot</module>
         <module>my-boot-starter</module>
+        <module>boot-mvc</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
