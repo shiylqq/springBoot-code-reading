@@ -1,6 +1,7 @@
 package org.shi.code.reading.springboot;
 
 import org.shi.code.reading.springboot.listeners.MyEvent;
+import org.shi.code.reading.springboot.starter.StarterApplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;

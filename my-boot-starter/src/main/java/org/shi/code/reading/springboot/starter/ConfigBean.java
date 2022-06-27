@@ -2,6 +2,7 @@ package org.shi.code.reading.springboot.starter;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
+//TODO 试试通过propertySource的方式指定引入配置文件
 @ConfigurationProperties(prefix = "shi.starter.conf")
 public class ConfigBean {
 
