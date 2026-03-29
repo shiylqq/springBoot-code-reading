@@ -1,4 +1,8 @@
+
 shi:
   starter:
     conf:
       current: pure-boot
+spring:
+  config:
+    import: "optional:classpath:mystarter.yml" # 开启从jar包中读取yml配置
